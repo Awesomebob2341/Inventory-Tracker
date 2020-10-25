@@ -1,0 +1,13 @@
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\bin\Release\Inventory Tracker.exe.config
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\bin\Release\Inventory Tracker.exe
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\bin\Release\Inventory Tracker.pdb
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Release\Inventory Tracker.csprojAssemblyReference.cache
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Release\Inventory_Tracker.AdditionPanel.resources
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Release\Inventory_Tracker.CheckPanel.resources
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Release\Inventory_Tracker.Post_Repair.resources
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Release\Inventory_Tracker.Tracker.resources
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Release\Inventory_Tracker.Properties.Resources.resources
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Release\Inventory Tracker.csproj.GenerateResource.cache
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Release\Inventory Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Release\Inventory Tracker.exe
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Release\Inventory Tracker.pdb

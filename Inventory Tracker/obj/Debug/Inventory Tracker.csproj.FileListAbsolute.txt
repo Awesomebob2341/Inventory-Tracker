@@ -1,0 +1,28 @@
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\bin\Debug\Inventory Tracker.exe.config
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\bin\Debug\Inventory Tracker.exe
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\bin\Debug\Inventory Tracker.pdb
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory Tracker.csprojAssemblyReference.cache
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory_Tracker.Properties.Resources.resources
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory Tracker.csproj.GenerateResource.cache
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory Tracker.exe
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory Tracker.pdb
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory_Tracker.AdditionPanel.resources
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory_Tracker.Tracker.resources
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory_Tracker.CheckPanel.resources
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory_Tracker.Post_Repair.resources
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory_Tracker.AdministrationPanel.resources
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\bin\Debug\MySql.Data.dll
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\bin\Debug\Google.Protobuf.dll
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\bin\Debug\Zstandard.Net.dll
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\bin\Debug\Renci.SshNet.dll
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\bin\Debug\System.Buffers.dll
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\bin\Debug\MySql.Data.xml
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory Tracker.exe.config
+C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory Tracker\obj\Debug\Inventory Tracker.csproj.CopyComplete
