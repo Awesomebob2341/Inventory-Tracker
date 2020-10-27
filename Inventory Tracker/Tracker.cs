@@ -14,7 +14,8 @@ namespace Inventory_Tracker
 {
     public partial class Tracker : Form
     {
-        private static readonly string connectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source='C:\Users\Rocky327\Desktop\Personal Projects\Inventory Tracker\Inventory.accdb'";
+        private static readonly string connectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source='<insert database path>'";
+        //TODO: Modify existing code to function with MySQL Database Server
         
         public Tracker()
         {
